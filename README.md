@@ -1,4 +1,4 @@
-![GitHub Banner](banner.gif)
+![GitHub Banner](img/banner.gif)
 
 ## This week I spent my time coding
 
@@ -14,4 +14,4 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-## Contact me at <a href="https://www.linkedin.com/in/victoria-suarez1997/">Linkedin</a>
+### Contact me at <a href="https://www.linkedin.com/in/victoria-suarez1997/">Linkedin</a>
