@@ -1,10 +1,9 @@
 ## Hi stranger  <img src="https://image.flaticon.com/icons/svg/620/620768.svg" width="40px">
 
 My name is Victoria and I'm a jr Front End Developer from Buenos Aires, Argentina.
-
-- I’m currently pursuing a career on Front End Development 👩‍💻
-- Learning ⚛️ ReactJS ⚛️
-- Fun fact: I'm also an illustrator and tattoo artist on my free time 💉🐍
+- ✨ I’m currently pursuing a career on Front End Development 👩‍💻
+- 💻 Learning ⚛️ <b>ReactJS</b> ⚛️
+- ⚡ Fun fact: I'm also an illustrator and tattoo artist on my free time 💉🐍
 
 ``things_that_i_love = [
 "Learning new things",
@@ -28,4 +27,4 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### Contact me at <a href="https://www.linkedin.com/in/victoria-suarez1997/">Linkedin</a>
+### Contact me at <a href="https://www.linkedin.com/in/victoria-suarez1997/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="30px" alt="Linkedin logo"></a>
