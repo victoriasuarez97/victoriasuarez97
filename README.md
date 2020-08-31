@@ -1,4 +1,4 @@
-![GitHub Banner](img/banner.gif)
+<img src="https://github.com/victoriasuarez97/victoriasuarez97/blob/master/img/banner.gif">
 
 ## This week I spent my time coding
 
