@@ -27,4 +27,5 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### Contact me at <a href="https://www.linkedin.com/in/victoria-suarez1997/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="30px" alt="Linkedin logo"></a>
+### Contact me at <br>
+<a href="https://www.linkedin.com/in/victoria-suarez1997/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="30px" alt="Linkedin log"/></a>
