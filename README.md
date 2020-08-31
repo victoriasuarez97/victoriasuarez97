@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## This week I spent my time coding
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
