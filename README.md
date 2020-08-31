@@ -1,3 +1,6 @@
+<img src="img/banner.png">
+
+
 ## This week I spent my time coding
 
 <!--START_SECTION:waka-->
