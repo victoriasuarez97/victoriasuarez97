@@ -1,5 +1,3 @@
-![GitHub Banner](img/banner.gif)
-
 ## This week I spent my time coding
 
 <!--START_SECTION:waka-->
