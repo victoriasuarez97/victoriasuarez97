@@ -1,6 +1,6 @@
 ## Hi stranger  <img src="https://image.flaticon.com/icons/svg/620/620768.svg" width="40px">
 
-My name is Victoria and I'm a jr Front End Developer from Buenos Aires, Argentina.
+My name is Victoria and I'm a Front End Developer from Buenos Aires, Argentina.
 - ✨ I’m currently pursuing a career on Front End Development 👩‍💻
 - 💻 Learning ⚛️ <b>ReactJS</b> ⚛️
 - ⚡ Fun fact: I'm also an illustrator and tattoo artist on my free time 💉🐍
