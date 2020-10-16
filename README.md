@@ -17,11 +17,11 @@ My name is Victoria and I'm a Front End Developer from Buenos Aires, Argentina.
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   4 hrs 29 mins   ████████████████░░░░░░░░░   64.24 % 
-JSON         1 hr 14 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.81 % 
-HTML         47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-CSS          17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+JavaScript   4 hrs 19 mins   ██████████████████▒░░░░░░   73.67 % 
+HTML         45 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+JSON         22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+CSS          17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 ```
 <!--END_SECTION:waka-->
 
