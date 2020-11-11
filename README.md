@@ -1,4 +1,4 @@
-## Hi stranger  <img src="https://image.flaticon.com/icons/svg/620/620768.svg" width="40px"
+## Hi stranger  <img src="https://image.flaticon.com/icons/svg/620/620768.svg" width="40px">
 
 <img src="./img/carbon.png" style="margin: auto">
 <br>
