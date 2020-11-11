@@ -1,6 +1,6 @@
 ## Hi stranger  <img src="https://image.flaticon.com/icons/svg/620/620768.svg" width="40px">
 
-<img src="./img/intro.png" style="margin: auto">
+<img src="./img/intro-readme.png" style="margin: auto">
 <br>
 
 [![Vic's github stats](https://github-readme-stats.vercel.app/api?username=victoriasuarez97&hide=issues,contribs&show_icons=true&theme=buefy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
