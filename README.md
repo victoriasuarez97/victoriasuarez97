@@ -15,4 +15,3 @@ Learn **WebGL**. - Why? I've always wanted to learn how to animate, and what bet
 ### Follow me on
 
 - [Linkedin](https://www.linkedin.com/in/victoria-suarez1997/)
-
