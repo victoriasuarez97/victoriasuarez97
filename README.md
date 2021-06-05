@@ -1,6 +1,6 @@
 # <code>Hello world</code> 🌎
 
-Hi!😊 I'm Vic, and I'm a Front End developer from Buenos Aires, Argentina (yes, we've got mate, Maradona, Messi, Pope Francis and many more). </br>
+Hi! 😊 I'm Vicky, and I'm a Front End developer from Buenos Aires, Argentina (yes, we've got mate, Maradona, Messi, Pope Francis and many more). </br>
 
 I started my journey as a developer on 2019 and currently, I specialize on React ⚛️💖 </br>
 
@@ -10,7 +10,7 @@ I'm always up to learn new technologies and create cool projects!
 
 Learn **WebGL**. - Why? I've always wanted to learn how to animate, and what better way to do it than with coding!
 
-[![Vic's github stats](https://github-readme-stats.vercel.app/api?username=victoriasuarez97&hide=issues,contribs&show_icons=true&theme=buefy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Vic's github stats](https://github-readme-stats.vercel.app/api?username=victoriasuarez97&hide=issues,contribs&show_icons=true&theme=material-palenight&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Follow me on
 
