@@ -1,6 +1,6 @@
 # <code>Hello world</code> 🌎
 
-Hi! 😊 I'm Vicky, and I'm a Front End developer from Buenos Aires, Argentina (yes, we've got mate, Maradona, Messi, Pope Francis and many more). </br>
+Hi! 😊 I'm Vicky, and I'm a Front End developer from Buenos Aires, Argentina. </br>
 
 I started my journey as a developer on 2019 and currently, I specialize on React ⚛️💖 </br>
 
