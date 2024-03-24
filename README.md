@@ -1,7 +1,7 @@
-I'm a front end developer from Buenos Aires and my main tool is React. I've been working in Broker apps since 2021 and when I have the time, I code for personal projects here. 
+I'm a front end developer from Buenos Aires and my main tool is React. I've been working in Broker apps since 2021 and when I have the time, I code for personal projects here.
 
 <img
-  src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHA0ajJ3ZmE4ZDNqaG5xZTlqNmFqYjh3ZHNhcHJmOGRpMnV1dWtsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fAmnJKCwuXtDiEhNwg/giphy-downsized-large.gif'
+  src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHA0ajJ3ZmE4ZDNqaG5xZTlqNmFqYjh3ZHNhcHJmOGRpMnV1dWtsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fAmnJKCwuXtDiEhNwg/giphy-downsized.gif'
   width='auto'
 />
 
