@@ -1,8 +1,17 @@
-I'm a front end developer from Buenos Aires and my main tool is React. When I have the time, I code personal projects here.
+<p align="center">
+  <img src="img/readme-banner.svg" alt="Victoria Suarez — frontend & drawings" width="100%">
+</p>
 
-<img
-  src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHA0ajJ3ZmE4ZDNqaG5xZTlqNmFqYjh3ZHNhcHJmOGRpMnV1dWtsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fAmnJKCwuXtDiEhNwg/giphy-downsized.gif'
-  width='auto'
-/>
+I write code the way I used to draw: **layer by layer**.
 
-[![Vic's github stats](https://github-readme-stats.vercel.app/api?username=victoriasuarez97&hide=issues,contribs&show_icons=true&theme=material-palenight&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) </br>
+I spent six years illustrating and tattooing, then somehow ended up spending the next seven building web apps instead — for a US retail platform, a bank, and a consultancy.
+
+```txt
+React · TypeScript · Next.js · Storybook · Figma · design systems
+```
+
+Occasionally supervised by **Renton** (naps through code review, sits in front of the monitor when he disagrees) and **Zeldita** (QA, mostly through unplanned keyboard input).
+
+Pinned repos are the things I actually want you to see.
+
+Everything else is me trying things, breaking things, fixing them, and learning in public.
