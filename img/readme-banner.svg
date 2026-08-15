@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="260" viewBox="0 0 1280 260" role="img" aria-label="Victoria Suarez — frontend and craft">
+  <rect width="1280" height="260" fill="#FBF6E4"></rect>
+  <g stroke="#22301A" stroke-opacity="0.08" stroke-width="1"><path d="M0 40.5h1280M0 80.5h1280M0 120.5h1280M0 160.5h1280M0 200.5h1280M0 240.5h1280"></path></g>
+  <text x="64" y="112" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="58" font-weight="600" letter-spacing="-2" fill="#22301A">Victoria Suarez</text>
+  <text x="66" y="158" font-family="Georgia, serif" font-style="italic" font-size="30" fill="#E2650E">frontend &amp; craft</text>
+  <path d="M64 182 h300" stroke="#A8BE3C" stroke-width="4" stroke-linecap="round"></path>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#3C4A32">
+    <text x="900" y="104" text-anchor="start" fill="#7E8A5E" letter-spacing="2.4">BUENOS AIRES · AR</text>
+    <text x="900" y="140">React · TypeScript · Next.js</text>
+    <text x="900" y="168">design systems · motion</text>
+  </g>
+</svg>
