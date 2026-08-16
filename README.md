@@ -1,17 +1,33 @@
+<!-- Every line of type here is my own handwriting, rendered from Vic-Regular.otf -->
+<!-- Source images: assets/readme/*.png  (light + -dark pairs, swapped via prefers-color-scheme) -->
+
 <p align="center">
-  <img src="img/readme-banner.svg" alt="Victoria Suarez — frontend & drawings" width="100%">
+  <img src="assets/readme/banner.png" alt="Victoria Suarez — frontend &amp; craft. Illustrator turned frontend engineer, Buenos Aires, AR." width="100%">
 </p>
 
-I write code the way I used to draw: **layer by layer**.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/heading-dark.png">
+  <img src="assets/readme/heading.png" width="172" alt="Who am I?">
+</picture>
 
-I spent six years illustrating and tattooing, then somehow ended up spending the next seven building web apps instead — for a US retail platform, a bank, and a consultancy.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/p1-dark.png">
+  <img src="assets/readme/p1.png" width="848" alt="A concerned frontend developer who wants to spend more time here building random stuff, but never seems to have the time. Or maybe I just don't make the time?">
+</picture>
 
-```txt
-React · TypeScript · Next.js · Storybook · Figma · design systems
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/p2-dark.png">
+  <img src="assets/readme/p2.png" width="757" alt="I like playing with new tools, taking naps, and touching grass from time to time.">
+</picture>
 
-Occasionally supervised by **Renton** (naps through code review, sits in front of the monitor when he disagrees) and **Zeldita** (QA, mostly through unplanned keyboard input).
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/p3-dark.png">
+  <img src="assets/readme/p3.png" width="625" alt="And, of course, I have two beautiful cats. They are very involved.">
+</picture>
 
-Pinned repos are the things I actually want you to see.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/links-dark.png">
+  <img src="assets/readme/links.png" width="114" alt="find me">
+</picture>
 
-Everything else is me trying things, breaking things, fixing them, and learning in public.
+[LinkedIn](https://www.linkedin.com/in/victoria-suarez1997/)
